@@ -12,3 +12,5 @@
     xsync path/to/file
     xsync /path/to/file
     xsync file1 file2
+    xsync file1 --delete
+    xsync file2 -d
